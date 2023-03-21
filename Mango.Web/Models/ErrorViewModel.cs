@@ -1,6 +1,6 @@
 namespace Mango.Web.Models
 {
-    public class EViewModel
+    public class ErrorViewModel
     {
         public string? RequestId { get; set; }
 
